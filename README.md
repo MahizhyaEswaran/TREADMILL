@@ -3,12 +3,6 @@
 This project was implemented for provide a Operating System and UI for a treadmill with pure <strong>Python</Strong>.
 This project was implemented to remove thefts in stores when adding items to trolley, to provide the location of sections in store, and to generate automated bills that will be displayed in the app when checking out.
 
-## Author or creator of The Operating System :
-
-[Thanoraj Muthulingam](https://github.com/Thanoraj)<br/>
-[Thamatanthi Mahendranathan](https://github.com/ThamayanthiM)<br/>
-[Thanojan Vettivel](https://github.com/ThanojanVettivel)
-
 ## About
 
 First we created a python script for calculations need to be done while treadmill is working. After that we started working on building UI with python. We only used python for build the UI. For building UI we used a python library called <strong>tkinter</strong>. This library helps us to create UI elements with python.<br/>
