@@ -19,11 +19,3 @@ This OS have :<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current date and time bar<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Animated UI with speed change<br/><br/>
 
-## Screenshots from the UI:
-
-<img src="sources/screenshots/image1.png" width = "400"></img>
-<img src="sources/screenshots/image2.png" width = "400"></img>
-<img src="sources/screenshots/image3.png" width = "400"></img>
-<img src="sources/screenshots/image4.png" width = "400"></img>
-<img src="sources/screenshots/image5.png" width = "400"></img>
-<img src="sources/screenshots/image6.png" width = "400"></img>
